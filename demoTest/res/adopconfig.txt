@@ -1,0 +1,7 @@
+jdbcUrl = jdbc:mysql://localhost/adminopon?utf8&zeroDateTimeBehavior=convertToNull&&useSSL=false
+user = root
+
+password = 123456
+devMode = true
+
+showSql = true
